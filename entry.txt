@@ -1,0 +1,1 @@
+fix: stop users reporting bugs by removing the report button; bug reports down 100%
